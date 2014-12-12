@@ -1,7 +1,7 @@
 2048 Auto Play
 ==========
 
-Simple Theos tweak which enables auto play on 2048.
+Simple Theos tweak which enables auto play in the iOS "2048" app.
 
 
 ###What does it do?
