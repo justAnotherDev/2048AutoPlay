@@ -1,0 +1,9 @@
+Package: com.yourcompany.2048autoplay
+Name: 2048AutoPlay
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: cevanoff
+Author: cevanoff
+Section: Tweaks
